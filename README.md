@@ -4,3 +4,7 @@ Violin and Viola repertoires ranging from Baroque era to Classical have been use
 Repertoires with piano accompaniment had been processed manually via [Riffstation](https://www.filehorse.com/download-riffstation/) so as to reduce the amplitude of piano sound in order to facilitate the feature extraction task. 
 
 The repertoire list can be found via [here](https://drive.google.com/file/d/10VEpMCM29PqYLDzs8sPQ3BQWvhrJGYUQ/view?usp=sharing). While the dataset can be accesedd via [here](https://drive.google.com/drive/folders/1SrMzkLLfkATPzMtqWcfpFZZB5PHZOAR6?usp=sharing). 
+
+![result1](/result1.png)
+
+![result2](/result2.png)
